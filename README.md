@@ -103,7 +103,7 @@ npm run dev
 
 ## License
 
-MIT License
+Apache License
 
 ## Contribution
 
