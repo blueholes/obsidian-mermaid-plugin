@@ -1,0 +1,13 @@
+{
+	"id": "mermaid-enhanced",
+	"name": "Mermaid Enhanced",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Mermaid chart tool, supporting quick generation and editing of Mermaid charts",
+	"author": "GUI RUI",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
+
+
